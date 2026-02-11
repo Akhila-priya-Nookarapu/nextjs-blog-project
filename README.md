@@ -9,36 +9,6 @@ The application automatically generates sitemap and RSS feed files during the bu
 
 ## 🚀 Features
 
-- Static Site Generation (SSG) using `getStaticProps` and `getStaticPaths`
-- Blog posts written in MDX format
-- Reading time calculation for each post
-- Automatic sitemap.xml generation
-- Automatic RSS feed generation
-- Custom 404 page
-- SEO support using next-seo
-- Dockerized deployment using Docker and Docker Compose
-- Production-ready build
-
----
-
-## 📁 Project Structure
-
-Sure bro 👍 — here is the exact code you need to paste into your README.md file.
-
-👉 Just copy everything below and paste it in README.md.
-
-✅ COPY THIS CODE
-# Next.js Blog Application with Docker and SSG
-
-This project is a blog application built using Next.js.  
-It uses Static Site Generation (SSG), MDX for content management, and Docker for containerized deployment.
-
-The application automatically generates sitemap and RSS feed files during the build process.
-
----
-
-## 🚀 Features
-
 - Static Site Generation (SSG) using getStaticProps and getStaticPaths
 - Blog posts written in MDX format
 - Reading time calculation for each post
